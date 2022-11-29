@@ -1,0 +1,4 @@
+.navbar-light .navbar-nav .nav-link.active{
+    color:var(--primeira-color);
+    font-weight: bold;
+}
